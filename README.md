@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my projects are available at [https://ammar0316.github.io/foodpanda/nda/](https://ammar0316.github.io/foodpanda/nda/)
+- 👨‍💻 All of my projects are available at (https://github.com/ammar0316)
 
 - 📫 How to reach me **ammarmuhamin@gmail.com**
 
