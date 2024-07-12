@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Ammar Muhamin</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fcode-fi-lofi-beats-to-coderelax-to-FvBVst&psig=AOvVaw3AK3W-DySUxf57Q_cyMR2b&ust=1720896317490000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIC09-WUoocDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="">https://i.makeagif.com/media/4-05-2022/FvBVst.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammar0316&label=Profile%20views&color=0e75b6&style=flat" alt="ammar0316" /> </p>
 
